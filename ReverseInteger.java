@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class ReverseInteger {
     public static void main(String[] args) {
+        //scan the integer
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
 
