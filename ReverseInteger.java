@@ -10,7 +10,7 @@ public class ReverseInteger {
     }
     public static int reverse(int x) {
         long normal_num = 0;
-
+//converting to normal number
         while (x != 0) {
             normal_num = normal_num * 10 + x % 10;
             x /= 10;
