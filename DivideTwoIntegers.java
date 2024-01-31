@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//time complexity is more
 public class DivideTwoIntegers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
