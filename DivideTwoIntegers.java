@@ -20,7 +20,7 @@ public class DivideTwoIntegers {
         if (dividend == Integer.MIN_VALUE && divisor == -1) {
             return Integer.MAX_VALUE;
         }
-
+//not considering both have negative sign 
         int sign = (dividend < 0) ^ (divisor < 0) ? -1 : 1;
         long absdividend = Math.abs((long) dividend);
         long absdivisor = Math.abs((long) divisor);
