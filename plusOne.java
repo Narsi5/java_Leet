@@ -19,6 +19,7 @@ public class plusOne {
 
     public static int[] plusOneArr(int[] digits) {
         for (int i = digits.length - 1; i >= 0; i--) {
+            //if the last digit is less than zero then it will increase the last digit and return and exit the loop ,same till the digit is less than 9 
             if (digits[i] < 9) {
                 digits[i]++;
                 return digits;
