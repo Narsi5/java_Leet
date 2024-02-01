@@ -27,7 +27,7 @@ public class plusOne {
             digits[i] = 0;
         }
 // this will only executed when the mostsignigicant bit is 9 
-        digits = new int[digits.length + 1];
+        digits = new int[digits.length + 1];//increase the size of the array 
         digits[0] = 1;
         return digits;
     }
