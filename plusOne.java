@@ -28,7 +28,7 @@ public class plusOne {
         }
 // this will only executed when the mostsignigicant bit is 9 
         digits = new int[digits.length + 1];//increase the size of the array 
-        digits[0] = 1;
+        digits[0] = 1;//make the first no 1 as the before last significant bit will be 9 and increasing that will 9+0 =10 so 1 will be on the left side
         return digits;
     }
 
