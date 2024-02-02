@@ -8,7 +8,7 @@ public class LengthofthelastWord {
         while(lastword>=0 && s.charAt(lastword)==' ')//if the lastcharacter is space then it decreases the length of the string 
             --lastword;//it repeats untill the last char is not zero
         int j=lastword;
-        while(j>=0 && s.charAt(j) != ' ')
+        while(j>=0 && s.charAt(j) != ' ')//it checks untill it finds the next space ,as till that it will be one word
             --j;
         return lastword-j;
     }
