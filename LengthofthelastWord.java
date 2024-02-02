@@ -4,7 +4,7 @@ public class LengthofthelastWord {
         System.out.println(LastWord(input));
     }
     public static int LastWord(String s) {
-        int lastword = s.length() -1;
+        int lastword = s.length() -1;//give the total length of the string 
         while(lastword>=0 && s.charAt(lastword)==' ')
             --lastword;
         int j=lastword;
