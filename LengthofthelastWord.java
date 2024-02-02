@@ -10,6 +10,6 @@ public class LengthofthelastWord {
         int j=lastword;
         while(j>=0 && s.charAt(j) != ' ')//it checks untill it finds the next space ,as till that it will be one word
             --j;
-        return lastword-j;
+        return lastword-j;//it gives the length of the word as it subracts totallength of string igonring the last space and when found the next space so that it returns total
     }
 }
