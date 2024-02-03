@@ -52,7 +52,7 @@ public class AddBinary {
         if (carry == 1) {// after adding all if have a carry then we hae to add to the result string
             result.append("1");
         }
-        return result.reverse().toString();
+        return result.reverse().toString();//this will reverse the string and print
 
     }
 }
