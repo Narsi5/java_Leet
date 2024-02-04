@@ -24,14 +24,14 @@ public class AddBinary {
         StringBuilder result = new StringBuilder();
         while (i >= 0 || j >= 0) {
             int sum = carry;
-            if (i >= 0) {
-                sum += a.charAt(i) - '0';
+            if (i >= 0) { 
+                sum += a.charAt(i) - '0';//if the digit is 0 the sum will become 1 and if the digit is 0 then the sum will remain 0
             }
             if (j >= 0) {
-                sum += b.charAt(j) - '0';
+                sum += b.charAt(j) - '0';//if the digit is 0 the sum will become previou sum result + 1 and if the digit is 0 then the sum will become previous sum result +0
             }
             if (sum == 0 || sum == 1) {
-                result.append(sum);
+                result.append(sum);//it will 0 or 1 depending on the the sum to the result String 
                 carry = 0;
             }
             else if (sum == 2) {
