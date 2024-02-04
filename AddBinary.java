@@ -5,8 +5,9 @@ public class AddBinary {
 
 
         Scanner sc= new Scanner(System.in);
-        System.out.print("Enter a string: ");
+        System.out.print("Enter Binary String a : ");
         String a= sc.nextLine();
+        System.out.prnt("Enter Binary String b : ");
         String b= sc.nextLine();
         System.out.println(add(a, b));
 
