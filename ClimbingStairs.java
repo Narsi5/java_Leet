@@ -8,7 +8,7 @@ public class ClimbingStairs {
         System.out.println("Total no ways to climb the stairs :" + climbStairs(n));
     }
     public static int climbStairs(int n) {
-
+//this is bascially a fibinocci series but the series goes on like this 1 2 3 5 8 13 ...
         int fno=1,sno=2,nno;
 
         if(n==0)
