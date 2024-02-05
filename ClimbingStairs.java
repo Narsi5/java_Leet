@@ -9,6 +9,8 @@ public class ClimbingStairs {
     }
     public static int climbStairs(int n) {
 //this is bascially a fibinocci series but the series goes on like this 1 2 3 5 8 13 ...
+        //so by the above from 2 its fibinocci 
+        //so add a if condition for 0 and 1 and rest is normal fibinooci
         int fno=1,sno=2,nno;
 
         if(n==0)
