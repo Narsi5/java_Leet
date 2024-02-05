@@ -5,7 +5,7 @@ public class ClimbingStairs {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the no of steps: ");
         int n = sc.nextInt();
-        System.out.println("The no of steps required are :" + climbStairs(n));
+        System.out.println("Total no ways to climb the stairs :" + climbStairs(n));
     }
     public static int climbStairs(int n) {
 
