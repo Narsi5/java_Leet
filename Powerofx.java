@@ -19,7 +19,8 @@ public class Powerofx {
         return Math.pow(x,n);//this is the easiest way as it is a inbuilt function
     }
  }
-
+//this is someones code on leetcode it has one of the best spacecomplexity 
+//hence posting it here
 //  public double myPow(double x, int n) {
 //         long N = n ;
 //         if(n < 0) {
