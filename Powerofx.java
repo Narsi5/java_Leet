@@ -10,12 +10,12 @@ public class Powerofx {
         System.out.println(myPow(x,n));
     }
     public static double myPow(double x, int n) {
-//         double ans =1;
+//         double ans =1; //this code works well but the time complexity and space complexity is more and hence is not advisable 
 //         while(n!=0){
 //             ans = ans*x;
 //             n--;
 //         }
 //        return ans;
-        return Math.pow(x,n);
+        return Math.pow(x,n);//this is the easiest way as it is a inbuilt function
     }
 }
