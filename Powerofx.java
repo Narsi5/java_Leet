@@ -18,4 +18,26 @@ public class Powerofx {
 //        return ans;
         return Math.pow(x,n);//this is the easiest way as it is a inbuilt function
     }
-}
+ }
+
+//  public double myPow(double x, int n) {
+//         long N = n ;
+//         if(n < 0) {
+//             x = 1/x;
+//             N = -n;
+//         }
+//         return helper(x, N);
+//     }
+
+//     private double helper(double x, long n) {
+//         if(n==0) {
+//             return 1.0;
+//         }
+
+//         double result = helper(x, n/2);
+//         if(n %2 == 0) {
+//             return result * result;
+//         } else {
+//             return result * result * x;
+//         }
+//     }
