@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a4506e9-2dce-4390-9547-17f4e97785b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ValidParenthesis.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2btKVbDvOBA6cUsSgDuXYvwfltA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddBinary.executor": "Run",
+    "Application.AntontheBoundary.executor": "Run",
+    "Application.ClimbingStairs.executor": "Run",
+    "Application.HappyNumber.executor": "Run",
+    "Application.IntegerToRoman.executor": "Run",
+    "Application.NumberofBits.executor": "Debug",
+    "Application.Powerofx.executor": "Run",
+    "Application.RomantoInt.executor": "Run",
+    "Application.TypeofTriangletwo.executor": "Run",
+    "Application.ValidParenthesis.executor": "Run",
+    "Application.longestsubstringwithoutrepeat.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "editor.preferences.folding"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a4506e9-2dce-4390-9547-17f4e97785b1" name="Changes" comment="" />
+      <created>1707028961485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707028961485</updated>
+    </task>
+    <task id="LOCAL-00001" summary="problem no 69">
+      <option name="closed" value="true" />
+      <created>1707029612423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707029612424</updated>
+    </task>
+    <task id="LOCAL-00002" summary="problem no 70">
+      <option name="closed" value="true" />
+      <created>1707095829214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707095829214</updated>
+    </task>
+    <task id="LOCAL-00003" summary="problem no 50">
+      <option name="closed" value="true" />
+      <created>1707178519568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707178519568</updated>
+    </task>
+    <task id="LOCAL-00004" summary="problem no 191">
+      <option name="closed" value="true" />
+      <created>1707264730204</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707264730204</updated>
+    </task>
+    <task id="LOCAL-00005" summary="problem no 13">
+      <option name="closed" value="true" />
+      <created>1707352857302</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707352857302</updated>
+    </task>
+    <task id="LOCAL-00006" summary="problem no 202">
+      <option name="closed" value="true" />
+      <created>1707440554339</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707440554339</updated>
+    </task>
+    <task id="LOCAL-00007" summary="problem no 3028">
+      <option name="closed" value="true" />
+      <created>1707748110794</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707748110794</updated>
+    </task>
+    <task id="LOCAL-00008" summary="problem no 3024">
+      <option name="closed" value="true" />
+      <created>1707787090795</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707787090795</updated>
+    </task>
+    <task id="LOCAL-00009" summary="problem no 3">
+      <option name="closed" value="true" />
+      <created>1708013617182</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708013617182</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="problem no 69" />
+    <MESSAGE value="problem no 70" />
+    <MESSAGE value="problem no 50" />
+    <MESSAGE value="problem no 191" />
+    <MESSAGE value="problem no 13" />
+    <MESSAGE value="problem no 202" />
+    <MESSAGE value="problem no 3028" />
+    <MESSAGE value="problem no 3024" />
+    <MESSAGE value="problem no 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem no 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NumberofBits.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
