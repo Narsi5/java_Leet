@@ -1,2 +1,3 @@
 # java_Leet
-my solutions for leetcode problems in java
+Most of the solutions from the above code are from my own ideas
+For a few questions if I have taken from others solution then I have mentioned
