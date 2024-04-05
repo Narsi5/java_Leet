@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
-class Solution {
+
+public class BinaryTreePostorder {
     public static void main(String[] args) {
         TreeNode root = new TreeNode(1);
         root.left = new TreeNode(2);
@@ -9,24 +10,23 @@ class Solution {
         root.left.right = new TreeNode(5);
 
         // Calling preorderTraversal method
-        List<Integer> inorderList = inorderTraversal(root);
+        List<Integer> postorderList = postorderTraversal(root);
 
         // Printing the result
-        System.out.println("Inorder traversal: " + inorderList);
+        System.out.println("Postorder traversal: " + postorderList);
     }
-    public static List<Integer> inorderTraversal(TreeNode root) {
+    public static List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
-        inorder(root, result);
+        postorder(root, result);
         return result;
     }
 
-    private static void inorder(TreeNode node, List<Integer> result) {
+    private static void postorder(TreeNode node, List<Integer> result) {
         if (node == null) {
             return;
         }
-        inorder(node.left, result);
+        postorder(node.left, result);
         result.add(node.val); // Add the value to the result list
-        inorder(node.right, result);
+        postorder(node.right, result);
     }
-        
 }
