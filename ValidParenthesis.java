@@ -5,7 +5,7 @@ public class ValidParenthesis {
     public boolean checkValidString(String inputStr)
     {
         Stack<Character> stk = new Stack<Character>();
-
+ 
         for (char ch : inputStr.toCharArray())
         {
 
