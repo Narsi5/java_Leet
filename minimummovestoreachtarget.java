@@ -13,7 +13,7 @@ public class minimummovestoreachtarget {
         else if(maxDoubles>0&&target%2!=0)
             return countSteps(target-1,maxDoubles,steps+1);
         else
-            return countSteps(target -target+ 1, maxDoubles, steps + target-1);
+            return countSteps( 1, maxDoubles, steps + target-1);
 
     }
 }
