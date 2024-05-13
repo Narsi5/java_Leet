@@ -4,7 +4,7 @@ public class SortList {
     public ListNode sortList(ListNode head) {
         ListNode temp = head;
         ArrayList<Integer> arr = new ArrayList<>();
-        while(temp!=null){
+        while(temp!=null ){
             arr.add(temp.val);
             temp = temp.next;
         }
