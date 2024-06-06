@@ -6,7 +6,6 @@ public class implementqueueusingstack {
     public void MyQueue() {
         s1 = new Stack<Integer>();
         s2 = new Stack<Integer>();
-
     }
 
     public void push(int x) {
