@@ -20,6 +20,7 @@ public class ReplaceWords {
                     break;
                 }
 
+
                 if (i == t.length() + 1) res.append(t).append(" ");
             }
         }
