@@ -7,6 +7,7 @@ public class WaterandJugproblem {
         }else{
             return false;
         }
+
     }
     public int findgcd(int x,int y){
         if(y==0){
