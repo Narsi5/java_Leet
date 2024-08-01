@@ -14,5 +14,6 @@ public class MergeTwoBinaryTrees {
         root2.right = mergeTrees(root1.right,root2.right);
         return root2;
 
+
     }
 }
