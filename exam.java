@@ -1,3 +1,4 @@
+import java.util.*;
 public class exam {
 
     public static Map<Integer, Integer> getPrimeFactors(int n) {
